@@ -35,6 +35,7 @@ Data Analysis | Excel Dashboard Development | PivotTables | PivotCharts | Slicer
 ## Project Files
 - `Sales_Performance_Dashboard.xlsx` - Excel dashboard file.
 - `dashboard-preview.png` - Dashboard screenshot.
+- ![Excel Sales Performance Dashboard](dashboard-preview.png)
 ---
 ## How to Use
 1. Download the Excel dashboard.
